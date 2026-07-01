@@ -1,21 +1,20 @@
-# Source Map
+# Source Notes
 
 ## Skill
 
-`xiahai-geo-technical-audit` - 下海 GEO 技术审计
+`xiahai-geo-technical-audit`
 
-## Source Materials
+## Source Material Categories
 
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/张亚楠 - GEO 技术端优化全流程：抓取、索引与引用的实战指南.pdf`
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/John喜欢和引用的那些海外演讲嘉宾PPTs/FoundConf-Lily Ray.pdf`
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/John喜欢和引用的那些海外演讲嘉宾PPTs/FoundConf-Elias Dabbas.pdf`
+- GEO 技术端抓取、索引、渲染、结构化数据材料
+- 海外 AI 搜索技术趋势材料
 
 ## Distilled Notes
 
-- Technical GEO starts with crawlability and parseability, not prompt hacks.
+This public repository contains distilled workflows only. Original PDFs, plugin source files, extracted text caches, local paths, and private working notes are not included.
 
 ## Handling
 
-- Keep source claims grounded in the named source-material categories or in current live checks when platform rules may have changed. Original source PDFs are not included in this public repository.
-- Prefer workflow steps over long copied excerpts.
-- If a tactic depends on policy, account status, or platform UI, verify the current surface before acting.
+- Verify current platform rules, UI, account status, and policy-sensitive steps before acting.
+- Keep outputs evidence-based: tables, checklists, briefs, audits, route maps, and retest plans.
+- Do not turn risk notes into gray-hat execution instructions.

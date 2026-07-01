@@ -1,24 +1,20 @@
-# Source Map
+# Source Notes
 
 ## Skill
 
-`xiahai-aireddit-operator` - 下海 AiReddit 操作
+`xiahai-aireddit-operator`
 
-## Source Materials
+## Source Material Categories
 
-- `source-materials/Reddit文件/AIReddit v1.0/manifest.json`
-- `source-materials/Reddit文件/AIReddit v1.0/reddit-sidebar.d38c7e9c.js`
-- `source-materials/Reddit文件/AIReddit v1.0/xiaohongshu-detector.2e63911c.js`
-- `source-materials/Reddit文件/AIReddit v1.0/reddit-sidebar.8661f57a.css`
-- `source-materials/Reddit文件/reddit文件/Reddit插件使用说明.pdf`
+- AiReddit 插件 manifest 与功能行为分析
+- Reddit / 小红书内容提取与插件排障材料
 
 ## Distilled Notes
 
-- Storage keys observed include `globalAISettings`, `additionalRequirements`, `redNoteData`, and `redNoteHistory`.
-- Known brittle points: Reddit DOM changes, Xiaohongshu CDN/CORS, and upload simulation.
+This public repository contains distilled workflows only. Original PDFs, plugin source files, extracted text caches, local paths, and private working notes are not included.
 
 ## Handling
 
-- Keep source claims grounded in the named source-material categories or in current live checks when platform rules may have changed. Original source PDFs are not included in this public repository.
-- Prefer workflow steps over long copied excerpts.
-- If a tactic depends on policy, account status, or platform UI, verify the current surface before acting.
+- Verify current platform rules, UI, account status, and policy-sensitive steps before acting.
+- Keep outputs evidence-based: tables, checklists, briefs, audits, route maps, and retest plans.
+- Do not turn risk notes into gray-hat execution instructions.

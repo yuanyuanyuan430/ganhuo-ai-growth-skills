@@ -1,21 +1,21 @@
-# Source Map
+# Source Notes
 
 ## Skill
 
-`xiahai-search-intent-brief` - 下海 搜索意图 Brief
+`xiahai-search-intent-brief`
 
-## Source Materials
+## Source Material Categories
 
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/Joker - 搜索意图不是猜出来的.pdf`
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/Chloe - 如何找到最适合参考的竞争对手：实战竞品分析维度及方法.pdf`
-- `source-materials/2025英文SEO实战派年终分享会嘉宾演讲PPT汇总/14位演讲嘉宾PPT汇总/图帕先生 - 电商独立站 SEO 节奏：一年内流量从100+_天 → 1900+_天 (全过程复盘).pdf`
+- 搜索意图判断材料
+- SERP 页面类型与内容 Brief 材料
+- 电商 SEO 页面规划材料
 
 ## Distilled Notes
 
-- SERP form is evidence of intent, not decoration.
+This public repository contains distilled workflows only. Original PDFs, plugin source files, extracted text caches, local paths, and private working notes are not included.
 
 ## Handling
 
-- Keep source claims grounded in the named source-material categories or in current live checks when platform rules may have changed. Original source PDFs are not included in this public repository.
-- Prefer workflow steps over long copied excerpts.
-- If a tactic depends on policy, account status, or platform UI, verify the current surface before acting.
+- Verify current platform rules, UI, account status, and policy-sensitive steps before acting.
+- Keep outputs evidence-based: tables, checklists, briefs, audits, route maps, and retest plans.
+- Do not turn risk notes into gray-hat execution instructions.

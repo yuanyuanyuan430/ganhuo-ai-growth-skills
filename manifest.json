@@ -1,0 +1,104 @@
+{
+  "name": "xiahai-ai-growth-skills",
+  "display_name": "下海 AI Growth Skills",
+  "description": "16 个面向 Reddit、联盟站、SEO、GEO、AI 搜索可见度的干活 AI / Codex 技能。",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "xiahai-ai-affiliate-site",
+      "path": "skills/xiahai-ai-affiliate-site",
+      "description": "Plan and review AI-built affiliate websites for cross-border monetization, including niche selection, reference-site analysis, original positioning, required trust pages, affiliate disclosure, deployability, and review readiness. Use when Codex is asked to build or assess an AI-generated affiliate site, Rakuten application site, or English landing page for affiliate monetization.",
+      "pitch": "用 AI 快速搭起能被人看、能过基础审核、能承接联盟转化的英文站。"
+    },
+    {
+      "name": "xiahai-aireddit-operator",
+      "path": "skills/xiahai-aireddit-operator",
+      "description": "Operate the local AiReddit Chrome extension package, including install, permissions review, AI endpoint configuration, Reddit sidebar testing, Xiaohongshu extraction testing, storage-key inspection, and troubleshooting. Use when Codex needs to load AIReddit v1.0, configure OpenAI-compatible API settings, test Reddit reply suggestions, or diagnose rednote-to-Reddit transfer failures.",
+      "pitch": "安装、配置、验证 AiReddit 插件，把工具能力和风险边界一次讲清。"
+    },
+    {
+      "name": "xiahai-content-quality-prune",
+      "path": "skills/xiahai-content-quality-prune",
+      "description": "Audit content inventories for low-quality, search-engine-first, HCU/Core Update risk, duplicate, stale, thin, or unhelpful pages, then decide whether to keep, merge, rewrite, noindex, or delete. Use for traffic drops, content bloat, expired SEO experiments, AI content cleanup, or site quality recovery planning.",
+      "pitch": "给内容库存做手术：保留、合并、重写、noindex、删除都有证据。"
+    },
+    {
+      "name": "xiahai-ecommerce-seo-sprint",
+      "path": "skills/xiahai-ecommerce-seo-sprint",
+      "description": "Plan ecommerce independent-site SEO growth in staged sprints across keyword foundations, category/product pages, content hubs, forum/community links, PR/linkable assets, review pages, conversion cleanup, and 12-month measurement. Use for Shopify/DTC/independent ecommerce SEO roadmaps, low-traffic growth plans, or recovery-to-scale planning.",
+      "pitch": "把独立站 SEO 从文章堆，变成 0-12 个月的增长节奏。"
+    },
+    {
+      "name": "xiahai-eeat-content-upgrader",
+      "path": "skills/xiahai-eeat-content-upgrader",
+      "description": "Upgrade ordinary or AI-sounding SEO content into more useful, credible, and distributable content by adding fact checks, first-hand experience, expert signals, source transparency, original visuals, examples, and channel variants. Use for E-E-A-T improvement, content refreshes, AI-content cleanup, or turning a basic article into multi-channel material.",
+      "pitch": "把普通 AI 味文章升级成有证据、有经验、有可信度的内容资产。"
+    },
+    {
+      "name": "xiahai-geo-technical-audit",
+      "path": "skills/xiahai-geo-technical-audit",
+      "description": "Audit technical readiness for GEO/AEO/AI-search visibility, including crawl access, robots and AI bot access, SSR/renderability, canonical/indexation, schema, URL semantics, logs, internal links, page speed, and citation-friendly source structure. Use when a site is not cited by AI answers, not indexed, hidden from crawlers, or needs a technical GEO checklist.",
+      "pitch": "检查 AI 和搜索系统能不能抓到、读懂、信任并引用你的页面。"
+    },
+    {
+      "name": "xiahai-llm-citation-growth",
+      "path": "skills/xiahai-llm-citation-growth",
+      "description": "Build LLM citation and AI-search visibility systems through prompt baselines, truth alignment, competitor source analysis, owned/off-site source planning, passage-level content repair, Reddit/YouTube/listicle/review signals, and recurring measurement. Use when Codex needs to improve brand visibility in ChatGPT, Gemini, Perplexity, Google AIO, or other AI answer surfaces.",
+      "pitch": "建立 Prompt 基线、信源地图和复测机制，系统提升 AI 可见度。"
+    },
+    {
+      "name": "xiahai-multilingual-seo",
+      "path": "skills/xiahai-multilingual-seo",
+      "description": "Evaluate and plan multilingual SEO opportunities for cross-border sites using target-language keyword research, local SERP analysis, cultural adaptation, regulatory/trust signals, translation-vs-native-writing decisions, reviewer workflows, and market validation. Use when expanding an English site into non-English markets or assessing small-language SEO blue oceans.",
+      "pitch": "不用机翻凑页面，用本地语种、文化语境和审校流程打小语种蓝海。"
+    },
+    {
+      "name": "xiahai-programmatic-seo",
+      "path": "skills/xiahai-programmatic-seo",
+      "description": "Assess, design, and QA programmatic SEO page systems with topic-cluster validation, sample pages, data fields, templates, crawl/index controls, sitemap/lastmod strategy, and human review for money pages. Use when Codex needs to evaluate pSEO opportunities, prevent thin-page factories, or build a controlled long-tail page plan.",
+      "pitch": "先用 10 个样板页验证，再决定要不要把长尾 SEO 放大。"
+    },
+    {
+      "name": "xiahai-rakuten-affiliate-onboarding",
+      "path": "skills/xiahai-rakuten-affiliate-onboarding",
+      "description": "Prepare Rakuten Advertising Publisher onboarding and advertiser-application materials, including website readiness, truthful profile inputs, traffic/channel summary, tax/payment checkpoints, advertiser fit notes, and post-approval next steps. Use for Rakuten/乐天 affiliate registration, publisher application prep, or diagnosing why an affiliate-network application is not ready.",
+      "pitch": "把 Rakuten Publisher 注册、站点资料、广告主申请变成可执行清单。"
+    },
+    {
+      "name": "xiahai-reddit-account-warmup",
+      "path": "skills/xiahai-reddit-account-warmup",
+      "description": "Plan safe Reddit account reputation building through genuine participation, CQS/karma proxy checks, deletion-rate tracking, and self-promotion limits. Use for new Reddit accounts, low-karma accounts, CQS concerns, warmup plans, or diagnosing whether an account is ready to post links or brand-adjacent content.",
+      "pitch": "让新号先像真人一样建立信任，再谈品牌、链接和转化。"
+    },
+    {
+      "name": "xiahai-reddit-community-fit",
+      "path": "skills/xiahai-reddit-community-fit",
+      "description": "Research and score Reddit communities for cross-border products, affiliate sites, SEO/GEO seeding, account warmup, or community-led promotion. Use when Codex needs to find suitable subreddits, compare community fit, inspect rules/link policies, avoid no-go communities, or build a Reddit community shortlist from niche keywords.",
+      "pitch": "从一堆 subreddit 里筛出真正能长期运营、能发声、能沉淀搜索资产的社区。"
+    },
+    {
+      "name": "xiahai-reddit-post-survival",
+      "path": "skills/xiahai-reddit-post-survival",
+      "description": "Preflight Reddit posts and comments for removal risk, spam-filter triggers, subreddit rule conflicts, link/format problems, frequency issues, and poor community fit. Use before publishing, when a Reddit post was removed, or when Codex needs to rewrite a post so it is more native, useful, and rule-compliant.",
+      "pitch": "发帖前做一次社区合规体检，减少被删、被喷、被过滤的低级失误。"
+    },
+    {
+      "name": "xiahai-reddit-seo-geo",
+      "path": "skills/xiahai-reddit-seo-geo",
+      "description": "Design Reddit participation for SEO, GEO, and LLM citation value through question-shaped titles, structured answers, old-thread opportunity research, community-native comments, retention tracking, and brand mention monitoring. Use when Reddit appears in SERPs or AI answers for a niche, or when Codex needs a Reddit-driven search visibility plan.",
+      "pitch": "把 Reddit 讨论做成 Google 和 AI 搜索都可能看见的复利资产。"
+    },
+    {
+      "name": "xiahai-search-intent-brief",
+      "path": "skills/xiahai-search-intent-brief",
+      "description": "Convert keywords into search-intent analysis and SEO content briefs by inspecting SERP page types, user jobs, content formats, required modules, and mismatch risks. Use when keywords are not ranking, one page targets multiple intents, content briefs are needed, or Codex must decide whether a query needs a product page, article, tool, UGC page, video, comparison, or glossary.",
+      "pitch": "把关键词拆成 SERP 意图、页面类型和可交付内容 Brief。"
+    },
+    {
+      "name": "xiahai-seo-competitor-intel",
+      "path": "skills/xiahai-seo-competitor-intel",
+      "description": "Select and analyze the right SEO competitors for a niche, product, market, or content strategy. Use when Codex needs to choose reference competitors, compare direct/indirect/cross-category players, map keyword/content/link/community strategies, or build an opportunity map before SEO execution.",
+      "pitch": "不盲抄竞品，先弄清谁值得学、学什么、哪里能反超。"
+    }
+  ]
+}

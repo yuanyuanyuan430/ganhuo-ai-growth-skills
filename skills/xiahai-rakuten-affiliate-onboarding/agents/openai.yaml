@@ -1,0 +1,4 @@
+interface:
+  display_name: "下海 乐天联盟注册"
+  short_description: "准备 Rakuten Publisher 注册、网站、税务和广告主申请材料"
+  default_prompt: "Use $xiahai-rakuten-affiliate-onboarding to prepare a Rakuten affiliate application."

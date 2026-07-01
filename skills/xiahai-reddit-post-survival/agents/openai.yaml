@@ -1,0 +1,4 @@
+interface:
+  display_name: "下海 Reddit 防删帖"
+  short_description: "按版规、链接、频率和语气预检 Reddit 帖子留存风险"
+  default_prompt: "Use $xiahai-reddit-post-survival to review a Reddit post before publishing."

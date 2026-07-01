@@ -1,0 +1,4 @@
+interface:
+  display_name: "下海 LLM 引用增长"
+  short_description: "建立 Prompt 基线、信源布局和复测机制提升 AI 推荐概率"
+  default_prompt: "Use $xiahai-llm-citation-growth to design an LLM citation growth plan."

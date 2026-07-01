@@ -14,7 +14,7 @@
       "name": "ganhuo-aireddit-operator",
       "path": "skills/ganhuo-aireddit-operator",
       "description": "Operate the local AiReddit Chrome extension package, including install, permissions review, AI endpoint configuration, Reddit sidebar testing, Xiaohongshu extraction testing, storage-key inspection, and troubleshooting. Use when Codex needs to load AIReddit v1.0, configure OpenAI-compatible API settings, test Reddit reply suggestions, or diagnose rednote-to-Reddit transfer failures.",
-      "pitch": "安装、配置、验证 AiReddit 插件，把工具能力和风险边界一次讲清。"
+      "pitch": "安装、配置、验证 AiReddit 插件，把工具能力和排障流程一次跑通。"
     },
     {
       "name": "ganhuo-content-quality-prune",

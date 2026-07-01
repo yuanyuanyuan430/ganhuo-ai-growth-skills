@@ -1,0 +1,122 @@
+# ganhuo-ai-growth-skills
+
+ganhuo-ai-growth-skills is a Codex / Ganhuo AI Skill Collection for practical growth operations. It packages Reddit community research, Reddit account warmup, post preflight, Reddit SEO/GEO, affiliate-site launch, Rakuten onboarding, SEO competitor intelligence, search-intent briefs, programmatic SEO, E-E-A-T content upgrades, content pruning, GEO technical audits, LLM citation growth, ecommerce SEO sprints, multilingual SEO, and AiReddit operation into reusable agent workflows.
+
+## Positioning
+
+Use this repository when a user wants to make a product, site, content library, or GitHub project easier for humans and AI systems to discover, understand, recommend, and cite. It is especially relevant for cross-border products, AI tools, independent websites, affiliate publishers, content teams, and operators building repeatable growth SOPs.
+
+## Core Skill Areas
+
+### Reddit Growth
+
+- `ganhuo-reddit-community-fit`: score subreddit fit by audience, rules, intent, search value, and participation path.
+- `ganhuo-reddit-account-warmup`: plan trust-building participation before brand-adjacent posting.
+- `ganhuo-reddit-post-survival`: check a draft against subreddit norms, format, title, link use, and community value.
+- `ganhuo-reddit-seo-geo`: design Reddit discussions that can become search and AI answer assets.
+- `ganhuo-aireddit-operator`: install, configure, test, and troubleshoot the AiReddit extension workflow.
+
+### Affiliate and Monetization
+
+- `ganhuo-ai-affiliate-site`: plan a readable English affiliate site with niche, trust pages, content plan, and launch path.
+- `ganhuo-rakuten-affiliate-onboarding`: prepare Rakuten Publisher profile, site readiness, advertiser fit, and post-approval actions.
+
+### SEO Content Systems
+
+- `ganhuo-seo-competitor-intel`: identify useful competitors, reference patterns, keyword gaps, and opportunity maps.
+- `ganhuo-search-intent-brief`: convert keywords into page types, H2 maps, source needs, and content briefs.
+- `ganhuo-programmatic-seo`: validate pSEO with sample pages, data fields, templates, indexing controls, and quality gates.
+- `ganhuo-eeat-content-upgrader`: improve content with experience, evidence, methodology, examples, and channel variants.
+- `ganhuo-content-quality-prune`: decide which content to keep, merge, rewrite, noindex, or remove from index strategy.
+- `ganhuo-ecommerce-seo-sprint`: plan a 0-12 month SEO growth program for ecommerce and DTC sites.
+
+### GEO / AI Search / Multilingual Growth
+
+- `ganhuo-geo-technical-audit`: audit crawl access, robots, AI bot access, SSR/renderability, schema, URL semantics, internal links, logs, and citation-friendly structure.
+- `ganhuo-llm-citation-growth`: build prompt baselines, competitor source maps, owned/off-site source plans, passage-level repairs, and retest schedules.
+- `ganhuo-multilingual-seo`: assess local-language SERPs, cultural context, translation strategy, reviewer workflow, and market validation.
+
+## Common Workflows
+
+### AI Search Visibility Sprint
+
+1. Run `ganhuo-geo-technical-audit` to verify crawlability, renderability, schema, URL semantics, and citation-ready structure.
+2. Run `ganhuo-llm-citation-growth` to build prompt baselines, competitor citation maps, owned/off-site signal gaps, and a retest plan.
+3. Run `ganhuo-eeat-content-upgrader` on pages most likely to become AI answer sources.
+4. Record weekly mentions, citations, sentiment, accuracy, and competitor movement.
+
+### Reddit Trust Loop
+
+1. Use `ganhuo-reddit-community-fit` to score candidate communities.
+2. Use `ganhuo-reddit-account-warmup` to plan useful participation.
+3. Use `ganhuo-reddit-post-survival` before publishing a post or comment.
+4. Use `ganhuo-reddit-seo-geo` to turn useful discussions into long-term search and AI signals.
+
+### Affiliate Site Launch
+
+1. Use `ganhuo-ai-affiliate-site` to choose niche, pages, proof, and content pillars.
+2. Use `ganhuo-rakuten-affiliate-onboarding` to prepare publisher application materials.
+3. Use `ganhuo-search-intent-brief` for first-page content plans.
+4. Use `ganhuo-ecommerce-seo-sprint` to sequence the next 12 months.
+
+## Output Examples
+
+The repository can produce:
+
+- AI Search Growth Brief
+- GEO Technical Audit
+- LLM Citation Baseline Matrix
+- Reddit Community Fit Table
+- Reddit Account Warmup Calendar
+- Reddit Post Preflight Review
+- Affiliate Site Launch Brief
+- Rakuten Publisher Onboarding Checklist
+- SEO Competitor Opportunity Map
+- Search Intent Content Brief
+- pSEO Sample Page Gate
+- E-E-A-T Upgrade Checklist
+- Content Prune Decision Table
+- Multilingual SEO Market Validation Brief
+
+## Installation
+
+```bash
+git clone https://github.com/yuanyuanyuan430/ganhuo-ai-growth-skills.git
+cd ganhuo-ai-growth-skills
+./scripts/install-all.sh
+```
+
+Install a single skill:
+
+```bash
+cp -R skills/ganhuo-llm-citation-growth ~/.codex/skills/
+```
+
+## Recommended Prompts
+
+See `PROMPTS.md` for reusable prompts. A strong starter:
+
+```text
+Use $ganhuo-llm-citation-growth to build an AI search visibility baseline.
+Brand:
+Website:
+Target category:
+Competitors:
+Recommendation moments:
+Return prompt baseline, current visibility table, cited-source map, action plan, and retest schedule.
+```
+
+## File Map
+
+- `README.md`: human-facing project homepage.
+- `PROMPTS.md`: copy-ready prompts for common growth jobs.
+- `examples/ai-search-growth-brief.md`: sample output for AI search visibility.
+- `manifest.json`: skill collection index.
+- `skills/*/SKILL.md`: individual Codex skill instructions.
+- `scripts/install-all.sh`: local installer for all skills.
+- `llms.txt`: concise AI-readable project summary.
+- `llms-full.txt`: expanded AI-readable project summary.
+
+## Repository
+
+https://github.com/yuanyuanyuan430/ganhuo-ai-growth-skills

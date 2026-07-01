@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 Reddit 社区匹配"
+  short_description: "按规则、活跃度、链接政策筛选可长期运营的 Reddit 社区"
+  default_prompt: "Use $ganhuo-reddit-community-fit to score subreddits for a niche launch."

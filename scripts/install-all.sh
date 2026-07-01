@@ -5,7 +5,7 @@ repo_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 target="${1:-${CODEX_HOME:-$HOME/.codex}/skills}"
 
 mkdir -p "$target"
-for skill_dir in "$repo_dir"/skills/xiahai-*; do
+for skill_dir in "$repo_dir"/skills/ganhuo-*; do
   name="$(basename "$skill_dir")"
   rm -rf "$target/$name"
   cp -R "$skill_dir" "$target/$name"

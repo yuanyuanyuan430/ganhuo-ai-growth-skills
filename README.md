@@ -1,4 +1,4 @@
-# 下海 AI Growth Skills
+# 干活 AI Growth Skills
 
 这不是一包“会写漂亮废话”的营销提示词。
 
@@ -24,8 +24,8 @@
 ### 方式 1：复制到 Codex / 干活 AI 可读的 skills 目录
 
 ```bash
-git clone https://github.com/yuanyuanyuan430/xiahai-ai-growth-skills.git
-cd xiahai-ai-growth-skills
+git clone https://github.com/yuanyuanyuan430/ganhuo-ai-growth-skills.git
+cd ganhuo-ai-growth-skills
 ./scripts/install-all.sh
 ```
 
@@ -38,13 +38,13 @@ cd xiahai-ai-growth-skills
 ### 方式 2：只使用单个 skill
 
 ```bash
-cp -R skills/xiahai-llm-citation-growth ~/.codex/skills/
+cp -R skills/ganhuo-llm-citation-growth ~/.codex/skills/
 ```
 
 然后在对话里直接说：
 
 ```text
-使用 $xiahai-llm-citation-growth，帮我评估这个品牌在 ChatGPT / Gemini / Perplexity 里的推荐机会。
+使用 $ganhuo-llm-citation-growth，帮我评估这个品牌在 ChatGPT / Gemini / Perplexity 里的推荐机会。
 ```
 
 ## Skills 一览
@@ -53,59 +53,59 @@ cp -R skills/xiahai-llm-citation-growth ~/.codex/skills/
 
 | Skill | 一句话能力 | 适合你什么时候用 |
 |---|---|---|
-| [`xiahai-reddit-community-fit`](skills/xiahai-reddit-community-fit/SKILL.md) | 从一堆 subreddit 里筛出真正能长期运营、能发声、能沉淀搜索资产的社区。 | 不知道产品该进哪些 subreddit，或担心选错社区一发就死。 |
-| [`xiahai-reddit-account-warmup`](skills/xiahai-reddit-account-warmup/SKILL.md) | 让新号先像真人一样建立信任，再谈品牌、链接和转化。 | 新号、低 karma、低信任账号准备开始发声前。 |
-| [`xiahai-reddit-post-survival`](skills/xiahai-reddit-post-survival/SKILL.md) | 发帖前做一次社区合规体检，减少被删、被喷、被过滤的低级失误。 | 帖子草稿写好了，但不确定会不会被删、被喷、被过滤。 |
-| [`xiahai-reddit-seo-geo`](skills/xiahai-reddit-seo-geo/SKILL.md) | 把 Reddit 讨论做成 Google 和 AI 搜索都可能看见的复利资产。 | 想让 Reddit 讨论变成搜索和 AI 答案里的长期公开信号。 |
-| [`xiahai-aireddit-operator`](skills/xiahai-aireddit-operator/SKILL.md) | 安装、配置、验证 AiReddit 插件，把工具能力和风险边界一次讲清。 | 要安装 AiReddit，或排查侧边栏、API、小红书提取、上传失败。 |
+| [`ganhuo-reddit-community-fit`](skills/ganhuo-reddit-community-fit/SKILL.md) | 从一堆 subreddit 里筛出真正能长期运营、能发声、能沉淀搜索资产的社区。 | 不知道产品该进哪些 subreddit，或担心选错社区一发就死。 |
+| [`ganhuo-reddit-account-warmup`](skills/ganhuo-reddit-account-warmup/SKILL.md) | 让新号先像真人一样建立信任，再谈品牌、链接和转化。 | 新号、低 karma、低信任账号准备开始发声前。 |
+| [`ganhuo-reddit-post-survival`](skills/ganhuo-reddit-post-survival/SKILL.md) | 发帖前做一次社区合规体检，减少被删、被喷、被过滤的低级失误。 | 帖子草稿写好了，但不确定会不会被删、被喷、被过滤。 |
+| [`ganhuo-reddit-seo-geo`](skills/ganhuo-reddit-seo-geo/SKILL.md) | 把 Reddit 讨论做成 Google 和 AI 搜索都可能看见的复利资产。 | 想让 Reddit 讨论变成搜索和 AI 答案里的长期公开信号。 |
+| [`ganhuo-aireddit-operator`](skills/ganhuo-aireddit-operator/SKILL.md) | 安装、配置、验证 AiReddit 插件，把工具能力和风险边界一次讲清。 | 要安装 AiReddit，或排查侧边栏、API、小红书提取、上传失败。 |
 ### 联盟站与 Rakuten 变现
 
 | Skill | 一句话能力 | 适合你什么时候用 |
 |---|---|---|
-| [`xiahai-ai-affiliate-site`](skills/xiahai-ai-affiliate-site/SKILL.md) | 用 AI 快速搭起能被人看、能过基础审核、能承接联盟转化的英文站。 | 想用 AI 做一个能被审核、能承接转化的英文联盟站。 |
-| [`xiahai-rakuten-affiliate-onboarding`](skills/xiahai-rakuten-affiliate-onboarding/SKILL.md) | 把 Rakuten Publisher 注册、站点资料、广告主申请变成可执行清单。 | 准备注册 Rakuten Publisher 或申请广告主前。 |
+| [`ganhuo-ai-affiliate-site`](skills/ganhuo-ai-affiliate-site/SKILL.md) | 用 AI 快速搭起能被人看、能过基础审核、能承接联盟转化的英文站。 | 想用 AI 做一个能被审核、能承接转化的英文联盟站。 |
+| [`ganhuo-rakuten-affiliate-onboarding`](skills/ganhuo-rakuten-affiliate-onboarding/SKILL.md) | 把 Rakuten Publisher 注册、站点资料、广告主申请变成可执行清单。 | 准备注册 Rakuten Publisher 或申请广告主前。 |
 ### SEO 内容系统
 
 | Skill | 一句话能力 | 适合你什么时候用 |
 |---|---|---|
-| [`xiahai-seo-competitor-intel`](skills/xiahai-seo-competitor-intel/SKILL.md) | 不盲抄竞品，先弄清谁值得学、学什么、哪里能反超。 | 进入新赛道前，不知道该参考谁、该抄结构还是避坑。 |
-| [`xiahai-search-intent-brief`](skills/xiahai-search-intent-brief/SKILL.md) | 把关键词拆成 SERP 意图、页面类型和可交付内容 Brief。 | 有关键词表，但不知道该写文章、产品页、工具页还是对比页。 |
-| [`xiahai-programmatic-seo`](skills/xiahai-programmatic-seo/SKILL.md) | 先用 10 个样板页验证，再决定要不要把长尾 SEO 放大。 | 想批量做长尾页，但不确定数据、模板和质量闸门够不够。 |
-| [`xiahai-eeat-content-upgrader`](skills/xiahai-eeat-content-upgrader/SKILL.md) | 把普通 AI 味文章升级成有证据、有经验、有可信度的内容资产。 | 文章太普通、太 AI、缺证据、缺经验、缺可信度。 |
-| [`xiahai-content-quality-prune`](skills/xiahai-content-quality-prune/SKILL.md) | 给内容库存做手术：保留、合并、重写、noindex、删除都有证据。 | 内容库存臃肿、流量下滑，需要决定哪些页保留、合并或删除。 |
+| [`ganhuo-seo-competitor-intel`](skills/ganhuo-seo-competitor-intel/SKILL.md) | 不盲抄竞品，先弄清谁值得学、学什么、哪里能反超。 | 进入新赛道前，不知道该参考谁、该抄结构还是避坑。 |
+| [`ganhuo-search-intent-brief`](skills/ganhuo-search-intent-brief/SKILL.md) | 把关键词拆成 SERP 意图、页面类型和可交付内容 Brief。 | 有关键词表，但不知道该写文章、产品页、工具页还是对比页。 |
+| [`ganhuo-programmatic-seo`](skills/ganhuo-programmatic-seo/SKILL.md) | 先用 10 个样板页验证，再决定要不要把长尾 SEO 放大。 | 想批量做长尾页，但不确定数据、模板和质量闸门够不够。 |
+| [`ganhuo-eeat-content-upgrader`](skills/ganhuo-eeat-content-upgrader/SKILL.md) | 把普通 AI 味文章升级成有证据、有经验、有可信度的内容资产。 | 文章太普通、太 AI、缺证据、缺经验、缺可信度。 |
+| [`ganhuo-content-quality-prune`](skills/ganhuo-content-quality-prune/SKILL.md) | 给内容库存做手术：保留、合并、重写、noindex、删除都有证据。 | 内容库存臃肿、流量下滑，需要决定哪些页保留、合并或删除。 |
 ### GEO / AI 搜索 / 全球化
 
 | Skill | 一句话能力 | 适合你什么时候用 |
 |---|---|---|
-| [`xiahai-geo-technical-audit`](skills/xiahai-geo-technical-audit/SKILL.md) | 检查 AI 和搜索系统能不能抓到、读懂、信任并引用你的页面。 | AI 搜索不引用你，先查站点能不能被抓取、解析和信任。 |
-| [`xiahai-llm-citation-growth`](skills/xiahai-llm-citation-growth/SKILL.md) | 建立 Prompt 基线、信源地图和复测机制，系统提升 AI 可见度。 | 想系统提升 ChatGPT、Gemini、Perplexity 等 AI 可见度。 |
-| [`xiahai-ecommerce-seo-sprint`](skills/xiahai-ecommerce-seo-sprint/SKILL.md) | 把独立站 SEO 从文章堆，变成 0-12 个月的增长节奏。 | 独立站 SEO 想从零散发文变成 0-12 个月增长路线图。 |
-| [`xiahai-multilingual-seo`](skills/xiahai-multilingual-seo/SKILL.md) | 不用机翻凑页面，用本地语种、文化语境和审校流程打小语种蓝海。 | 准备进小语种市场，但不想靠机翻页面硬凑。 |
+| [`ganhuo-geo-technical-audit`](skills/ganhuo-geo-technical-audit/SKILL.md) | 检查 AI 和搜索系统能不能抓到、读懂、信任并引用你的页面。 | AI 搜索不引用你，先查站点能不能被抓取、解析和信任。 |
+| [`ganhuo-llm-citation-growth`](skills/ganhuo-llm-citation-growth/SKILL.md) | 建立 Prompt 基线、信源地图和复测机制，系统提升 AI 可见度。 | 想系统提升 ChatGPT、Gemini、Perplexity 等 AI 可见度。 |
+| [`ganhuo-ecommerce-seo-sprint`](skills/ganhuo-ecommerce-seo-sprint/SKILL.md) | 把独立站 SEO 从文章堆，变成 0-12 个月的增长节奏。 | 独立站 SEO 想从零散发文变成 0-12 个月增长路线图。 |
+| [`ganhuo-multilingual-seo`](skills/ganhuo-multilingual-seo/SKILL.md) | 不用机翻凑页面，用本地语种、文化语境和审校流程打小语种蓝海。 | 准备进小语种市场，但不想靠机翻页面硬凑。 |
 
 ## 推荐组合拳
 
 ### Reddit 冷启动
 
 ```text
-先用 $xiahai-reddit-community-fit 找适合我们产品的 20 个 subreddit。
-再用 $xiahai-reddit-account-warmup 做 2 周账号信誉计划。
-最后用 $xiahai-reddit-post-survival 检查第一篇帖子能不能发。
+先用 $ganhuo-reddit-community-fit 找适合我们产品的 20 个 subreddit。
+再用 $ganhuo-reddit-account-warmup 做 2 周账号信誉计划。
+最后用 $ganhuo-reddit-post-survival 检查第一篇帖子能不能发。
 ```
 
 ### AI 搜索可见度
 
 ```text
-先用 $xiahai-geo-technical-audit 检查网站能不能被抓取和引用。
-再用 $xiahai-llm-citation-growth 建立 Prompt 基线和信源地图。
-最后用 $xiahai-eeat-content-upgrader 改造最该被 AI 引用的页面。
+先用 $ganhuo-geo-technical-audit 检查网站能不能被抓取和引用。
+再用 $ganhuo-llm-citation-growth 建立 Prompt 基线和信源地图。
+最后用 $ganhuo-eeat-content-upgrader 改造最该被 AI 引用的页面。
 ```
 
 ### 联盟站从 0 到 1
 
 ```text
-先用 $xiahai-ai-affiliate-site 规划一个可审核的英文联盟站。
-再用 $xiahai-rakuten-affiliate-onboarding 准备 Rakuten Publisher 申请材料。
-上线后用 $xiahai-search-intent-brief 和 $xiahai-ecommerce-seo-sprint 做内容增长。
+先用 $ganhuo-ai-affiliate-site 规划一个可审核的英文联盟站。
+再用 $ganhuo-rakuten-affiliate-onboarding 准备 Rakuten Publisher 申请材料。
+上线后用 $ganhuo-search-intent-brief 和 $ganhuo-ecommerce-seo-sprint 做内容增长。
 ```
 
 ## 边界

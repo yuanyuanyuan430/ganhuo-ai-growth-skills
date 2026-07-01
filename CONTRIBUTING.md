@@ -22,9 +22,9 @@ Thanks for improving this skill pack. Keep changes small, useful, and safe.
 - Run the skill validator if available:
 
 ```bash
-for d in skills/xiahai-*; do python3 path/to/quick_validate.py "$d"; done
+for d in skills/ganhuo-*; do python3 path/to/quick_validate.py "$d"; done
 ```
 
 - Verify `manifest.json` parses as JSON.
-- Run `./scripts/install-all.sh /tmp/xiahai-skill-test` and confirm 16 skills install.
+- Run `./scripts/install-all.sh /tmp/ganhuo-skill-test` and confirm 16 skills install.
 - Check that README links point to existing `SKILL.md` files.

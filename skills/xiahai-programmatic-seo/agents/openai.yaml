@@ -1,4 +1,0 @@
-interface:
-  display_name: "下海 程序化 SEO"
-  short_description: "用样板页、字段表和收录反馈控制程序化 SEO 风险"
-  default_prompt: "Use $xiahai-programmatic-seo to assess a programmatic SEO opportunity."

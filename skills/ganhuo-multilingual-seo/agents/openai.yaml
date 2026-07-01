@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 小语种 SEO"
+  short_description: "用本地语种关键词、文化语境和审校流程验证小语种蓝海"
+  default_prompt: "Use $ganhuo-multilingual-seo to evaluate multilingual SEO markets."

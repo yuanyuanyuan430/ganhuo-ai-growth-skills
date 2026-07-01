@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 内容质量清理"
+  short_description: "识别垃圾内容、HCU 风险页面并输出保留合并删除重写表"
+  default_prompt: "Use $ganhuo-content-quality-prune to audit low-quality SEO content."

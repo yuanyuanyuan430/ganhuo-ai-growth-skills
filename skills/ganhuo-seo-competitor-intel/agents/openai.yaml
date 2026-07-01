@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 SEO 竞品情报"
+  short_description: "按研究问题选择竞品并拆解 SEO、广告、转化和社区机会"
+  default_prompt: "Use $ganhuo-seo-competitor-intel to choose and analyze SEO competitors."

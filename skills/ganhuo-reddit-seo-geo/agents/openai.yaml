@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 Reddit SEO/GEO"
+  short_description: "把 Reddit 讨论设计成可收录、可引用、可复利的内容资产"
+  default_prompt: "Use $ganhuo-reddit-seo-geo to design a Reddit SEO/GEO content plan."

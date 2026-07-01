@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 搜索意图 Brief"
+  short_description: "把关键词、SERP 页面类型和内容模块转成可执行 Brief"
+  default_prompt: "Use $ganhuo-search-intent-brief to turn keywords into SEO content briefs."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 E-E-A-T 内容升级"
+  short_description: "用事实核验、一手经验和多渠道素材升级普通 SEO 文章"
+  default_prompt: "Use $ganhuo-eeat-content-upgrader to improve an article for E-E-A-T."

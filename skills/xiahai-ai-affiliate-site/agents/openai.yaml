@@ -1,4 +1,0 @@
-interface:
-  display_name: "下海 AI 联盟站"
-  short_description: "用原创定位、基础页面和披露机制搭建 AI 联盟站闭环"
-  default_prompt: "Use $xiahai-ai-affiliate-site to plan an AI-built affiliate site."

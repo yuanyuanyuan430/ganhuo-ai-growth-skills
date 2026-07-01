@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 AiReddit 操作"
+  short_description: "安装、配置、验证和排障 AiReddit Chrome 插件"
+  default_prompt: "Use $ganhuo-aireddit-operator to install and test the AiReddit extension."

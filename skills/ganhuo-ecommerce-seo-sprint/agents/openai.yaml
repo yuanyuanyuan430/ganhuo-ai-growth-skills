@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 电商 SEO 冲刺"
+  short_description: "按 0-12 个月节奏规划独立站电商 SEO、外链和 CRO 增长"
+  default_prompt: "Use $ganhuo-ecommerce-seo-sprint to plan a 12-month ecommerce SEO sprint."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 Reddit 养号"
+  short_description: "按账号年龄、互动质量和删除率规划 Reddit 信誉建设"
+  default_prompt: "Use $ganhuo-reddit-account-warmup to create a safe Reddit warmup plan."
